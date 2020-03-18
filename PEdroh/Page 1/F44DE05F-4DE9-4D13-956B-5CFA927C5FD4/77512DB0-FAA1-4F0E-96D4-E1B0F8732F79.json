@@ -9,6 +9,30 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
+            "blue": 0.2891196646341463,
+            "green": 0.2891196646341463,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 144
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          }
+        },
+        "length": 2,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
             "blue": 0,
             "green": 0,
             "red": 0
@@ -24,8 +48,8 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 6,
-        "location": 0
+        "length": 4,
+        "location": 2
       }
     ],
     "string": "PEdroh"
@@ -117,9 +141,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2891196646341463,
+          "green": 0.2891196646341463,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
